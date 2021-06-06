@@ -85,9 +85,13 @@ Also, its fast(er than javascript) and rather intuitive. (Also because we're too
 
 To make everything easier for all of us, we have created a template repository that you can clone (copy) to your system from the internet.
 
-With VS Code open to a folder of you choice, type the following command into the terminal:
+First, visit [the template repository](https://github.com/STR-AI-Club/Template), and click the "fork" button on the <u>top right</u> of the screen.
 
-`$ git clone https://github.com/STR-AI-Club/Template.git`
+Next, click on green download code button, and copy the link that shows up.
+
+Open a folder in vs code in which you want to store all the code for AI Club, and open a terminal (ctrl + `). Type the following command:
+
+`$ git clone <your url here>`
 
 # Plans for this year
 
