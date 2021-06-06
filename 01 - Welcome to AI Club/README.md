@@ -8,8 +8,11 @@
   - [Git](#git)
   - [VS Code](#vs-code)
   - [Why Python?](#why-python)
+- [Template repository](#template-repository)
 - [Plans for this year](#plans-for-this-year)
 - [References](#references)
+
+***If you have any questions during the entirety of the year, feel free to ask.***
 
 # What is Artificial Intelligence?
 
@@ -65,13 +68,26 @@ VS Code (Visual Studio Code) is an Integrated Development Environment (IDE) brou
 
 Download VS Code from [its website](https://code.visualstudio.com/download).
 
-Create a new folder on your desktop (or anywhere else) to store all of the code we will be writing in AI Club.
+We will need to download a couple of extensions to allow python to run and to make life easier for us.
+
+First, click on the extensions tab on the left of the screen. It's the one that looks like 4 squares. You will need to search and download the following extensions:
+- Python (ms-python.python)
+- Code Runner (formulahendry.code-runner)
 
 ## Why Python?
 
 Most importantly, because it is considered the best language for machine learning thanks to a wide arsenal of available tools and libraries.
 
 Also, its fast(er than javascript) and rather intuitive. (Also because we're too lazy to write a network in c++.)
+
+
+# Template repository
+
+To make everything easier for all of us, we have created a template repository that you can clone (copy) to your system from the internet.
+
+With VS Code open to a folder of you choice, type the following command into the terminal:
+
+`$ git clone https://github.com/STR-AI-Club/Template.git`
 
 # Plans for this year
 
