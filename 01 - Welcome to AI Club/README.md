@@ -8,6 +8,7 @@
   - [Git](#git)
   - [VS Code](#vs-code)
   - [Why Python?](#why-python)
+- [Template Repository](#template-repository)
 - [Plans for this year](#plans-for-this-year)
 - [References](#references)
 
@@ -77,9 +78,25 @@ Most importantly, because it is considered the best language for machine learnin
 
 Also, its fast(er than javascript) and rather intuitive. (also because we're too lazy to code in c++)
 
+# Template Repository
+
+We have created a template repository with everything you need to code along with us this year.
+
+Steps for installation:
+  1. Head on over to [this link](https://github.com/STR-AI-Club/Template)
+  2. Click the "fork" button on the top left of your screen
+  3. Click the green "↓ code" button
+  4. Copy the link that pops up underneath the button
+  5. Open VS Code
+  6. Go to the folder in which you wish to keep the template and all of your work
+  7. Open a terminal (ctrl + `)
+  8. Type the following command:
+
+`$ git clone <your url here>`
+
 # Plans for this year
 
-Throughout the course of this school year, we will teach you the fundementals of simple AI models such as regression, perceptrons, and genetic algorithm neural networks by teaching you all of the math behind them, making them from scratch using NumPy, and then using an external library such as TensorFlow or PyTorch to optimize the models.
+Throughout the course of this school year, we will teach you the fundamentals of simple AI models such as regression, perceptrons, and genetic algorithm neural networks by teaching you all of the math behind them, making them from scratch using NumPy, and then using an external library such as TensorFlow or PyTorch to optimize the models.
 
 We believe that making something from scratch is the best way to grasp a concept.
 
