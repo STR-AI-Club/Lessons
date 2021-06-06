@@ -24,13 +24,15 @@ Like it or not, artificial intelligence surrounds our everyday lives. If you hav
 - **Browsed any form of social media**
 - etc.
 
-The list goes on and on, the uses of artificial intelligence in out modern day and age are endless. Seeing such technologies associated with big name companies like Google, Apple, or Amazon may have us think of AI as a terribly complicated and unaccessible.
+The list goes on and on, the uses of artificial intelligence in out modern day and age are endless. Seeing such technologies associated with big name companies like Google, Apple, or Amazon may signficantly complicate our perception AI.
 
-However, AI's, when it comes to the bare minimum, is really just math. AI really is just a computer doing millions of calculations per second for long periods of time. Really, all a computer can do is add numbers.
+Behind all the math involved, AI is solely the formatting and storage of data. It is not some celestial consciousness that knows all. When one thinks of AI, they should really be thinking of a list of numbers whose parameters get altered to fit incoming data.
 
-Now, how do we get something that can only add numbers fast to do things like recognize faces, predict outcomes of actions, and even talk to humans in our languages?
+Now, how do we get something this simple to recognize faces, predict the outcomes of actions, and even talk to us humans like they are one of us?
 
-From now on we will be referring to AI's by a more technical term, being "neural networks". These networks act very similarly to neurons in biological species, and are able to think. We are able to simulate "thinking" in computers by adding and multiplying large amounts of numbers, and using (very basic) calculus.
+Well, we give it huge lists of numbers ordered in specific ways to fit the task at hand, and change the numbers based on how well it predicts certain outputs. 
+
+Throughout this year, we will try to accommodate you with a programming language and teach you the basic math and code behind multiple different AI models. Our overall goal is to help you understand what artificial intelligence really means by the end of the school year.
 
 # Python Environment Setup
 
@@ -45,7 +47,7 @@ This is what will actually allow our programs to run.
 
 Download the latest version of Python from [its website](https://www.python.org/downloads/).
 
-Simply follow the setup instructions, and **DON'T FORGET TO CHECK "ADD TO PATH".**
+Simply follow the setup instructions, and **DON'T FORGET TO CHECK "ADD TO PATH"**. This will allow you to access Python from anywhere.
 
 ![](images/python_installer.JPG)
 
@@ -71,13 +73,15 @@ Create a new folder on your desktop (or anywhere else) to store all of the code 
 
 Most importantly, because it is considered the best language for machine learning thanks to a wide arsenal of available tools and libraries.
 
-Also, its fast(er than javascript) and rather intuitive. (Also because we're too lazy to write a network in c++.)
+Also, its fast(er than javascript) and rather intuitive. (also because we're too lazy to code in c++)
 
 # Plans for this year
 
-Throughout the course of this school year, we will teach you everything you need to create your very own neural network that will be able to think for itself.
+Throughout the course of this school year, we will teach you the fundementals of simple AI models such as regression, perceptrons, and genetic algorithm neural networks by teaching you all of the math behind them, making them from scratch using NumPy, and then using an external library such as TensorFlow or PyTorch to optimize the models.
 
-Once we understand the basics of neural networks and machine learning, we will move on to create a few, more advanced networks.
+We believe that making something from scratch is the best way to grasp a concept.
+
+Once you learn these simple machine learning models, we will move on to create more advanced models such as convolutional and LSTM neural networks.
 
 We hope that all of you will enjoy learning about machine learning as much as we enjoy teaching it! We look forward to an excitement-filled school year with STR AI Club!
 
