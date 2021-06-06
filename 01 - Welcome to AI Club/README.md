@@ -8,11 +8,8 @@
   - [Git](#git)
   - [VS Code](#vs-code)
   - [Why Python?](#why-python)
-- [Template repository](#template-repository)
 - [Plans for this year](#plans-for-this-year)
 - [References](#references)
-
-***If you have any questions during the entirety of the year, feel free to ask.***
 
 # What is Artificial Intelligence?
 
@@ -27,7 +24,7 @@ Like it or not, artificial intelligence surrounds our everyday lives. If you hav
 - **Browsed any form of social media**
 - etc.
 
-The list goes on and on, the uses of artificial intelligence in out modern day and age are endless. Seeing such technologies associated with big name companies like Google, Apple, or Amazon may signficantly complicate our perception AI.
+The list goes on and on, the uses of artificial intelligence in out modern day and age are endless. Seeing such technologies associated with big name companies like Google, Apple, or Amazon may significantly complicate our perception AI.
 
 However, we are here to tell you that behind all the math involved, AI is solely the formatting and storage of data. It is not some celestial consciousness that knows all.
 
@@ -35,9 +32,9 @@ Now, how do we get something this simple to recognize faces, predict the outcome
 
 Well, when one thinks of AI, they should really be thinking of a machine whose parameters get altered to fit incoming data.
 
-We do this by giving it huge lists of numbers ordered in specific ways to fit the task at hand, and change the numbers based on how accurately they predict outputs. 
+We do this by giving it huge lists of numbers ordered in specific ways to fit the task at hand, and change the numbers based on how accurately they predict outputs.
 
-Throughout this year, we will try to accommodate you with a programming language and teach you the basic math and code behind multiple different AI models. Our overall goal is to help you understand what artificial intelligence really means by the end of the school year.
+Throughout this year, we will accommodate you with a programming language and teach you the basic math and code behind multiple different AI models. Our overall goal is to help you understand what artificial intelligence really means by the end of the school year.
 
 # Python Environment Setup
 
@@ -54,7 +51,7 @@ Download the latest version of Python from [its website](https://www.python.org/
 
 Simply follow the setup instructions, and **DON'T FORGET TO CHECK "ADD TO PATH"**. This will allow you to access Python from anywhere.
 
-![python_installer](images/python_installer.jpg)
+![python_installer](images/python_installer.JPG)
 
 ## Git
 
@@ -72,30 +69,13 @@ VS Code (Visual Studio Code) is an Integrated Development Environment (IDE) brou
 
 Download VS Code from [its website](https://code.visualstudio.com/download).
 
-We will need to download a couple of extensions to allow python to run and to make life easier for us.
-
-First, click on the extensions tab on the left of the screen. It's the one that looks like 4 squares. You will need to search and download the following extensions:
-- Python (ms-python.python)
-- Code Runner (formulahendry.code-runner)
+Create a new folder on your desktop (or anywhere else) to store all of the code we will be writing in AI Club.
 
 ## Why Python?
 
 Most importantly, because it is considered the best language for machine learning thanks to a wide arsenal of available tools and libraries.
 
 Also, its fast(er than javascript) and rather intuitive. (also because we're too lazy to code in c++)
-
-
-# Template repository
-
-To make everything easier for all of us, we have created a template repository that you can clone (copy) to your system from the internet.
-
-First, visit [the template repository](https://github.com/STR-AI-Club/Template), and click the "fork" button on the <u>top right</u> of the screen.
-
-Next, click on green download code button, and copy the link that shows up.
-
-Open a folder in vs code in which you want to store all the code for AI Club, and open a terminal (ctrl + `). Type the following command:
-
-`$ git clone <your url here>`
 
 # Plans for this year
 
