@@ -26,11 +26,13 @@ Like it or not, artificial intelligence surrounds our everyday lives. If you hav
 
 The list goes on and on, the uses of artificial intelligence in out modern day and age are endless. Seeing such technologies associated with big name companies like Google, Apple, or Amazon may signficantly complicate our perception AI.
 
-However, we are here to tell you that behind all the math involved, AI is solely the formatting and storage of data. It is not some celestial consciousness that knows all. When one thinks of AI, they should really be thinking of a list of numbers whose parameters get altered to fit incoming data.
+However, we are here to tell you that behind all the math involved, AI is solely the formatting and storage of data. It is not some celestial consciousness that knows all.
 
 Now, how do we get something this simple to recognize faces, predict the outcomes of actions, and even talk to us humans with such high precision?
 
-Well, we give it huge lists of numbers ordered in specific ways to fit the task at hand, and change the numbers based on how well it predicts certain outputs. 
+Well, when one thinks of AI, they should really be thinking of a machine whose parameters get altered to fit incoming data.
+
+We do this by giving it huge lists of numbers ordered in specific ways to fit the task at hand, and change the numbers based on how accurately they predict outputs. 
 
 Throughout this year, we will try to accommodate you with a programming language and teach you the basic math and code behind multiple different AI models. Our overall goal is to help you understand what artificial intelligence really means by the end of the school year.
 
