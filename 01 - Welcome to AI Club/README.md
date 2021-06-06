@@ -26,7 +26,7 @@ Like it or not, artificial intelligence surrounds our everyday lives. If you hav
 
 The list goes on and on, the uses of artificial intelligence in out modern day and age are endless. Seeing such technologies associated with big name companies like Google, Apple, or Amazon may signficantly complicate our perception AI.
 
-Behind all the math involved, AI is solely the formatting and storage of data. It is not some celestial consciousness that knows all. When one thinks of AI, they should really be thinking of a list of numbers whose parameters get altered to fit incoming data.
+However, we are here to tell you that behind all the math involved, AI is solely the formatting and storage of data. It is not some celestial consciousness that knows all. When one thinks of AI, they should really be thinking of a list of numbers whose parameters get altered to fit incoming data.
 
 Now, how do we get something this simple to recognize faces, predict the outcomes of actions, and even talk to us humans like they are one of us?
 
