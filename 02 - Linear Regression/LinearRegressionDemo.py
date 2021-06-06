@@ -36,8 +36,10 @@ yDiff = [num - yMean for num in y]
 plt.scatter(x, y, label='data')
 plt.plot([xMean for _ in x], y, color='green', label='mean')
 plt.plot(x, [yMean for _ in y], color='green')
-plt.plot([x[0], x[0]], [yMean, y[0]], color='orange', label='difference')
+plt.plot([x[0], x[0]], [yMean, y[0]], color='orange', label='x-difference')
+plt.plot([xMean, x[0]], [y[0], y[0]], color='yellow', label='y-difference')
 [plt.plot([x[num], x[num]], [yMean, y[num]], color='orange') for num in range(len(x))]
+[plt.plot([xMean, x[num]], [y[num], y[num]], color='yellow') for num in range(len(x))]
 plt.title('Difference')
 plt.xlabel('Hours Studied')
 plt.ylabel('Grade')
@@ -57,11 +59,13 @@ regression = [slope * num + yIntercept for num in x]
 # PLOT
 #####################################
 plt.scatter(x, y, label='data')
-plt.plot(x, regression, color='red', label='regression')
 plt.plot([xMean for _ in x], y, color='green', label='mean')
 plt.plot(x, [yMean for _ in y], color='green')
-plt.plot([x[0], x[0]], [yMean, y[0]], color='orange', label='difference')
+plt.plot([x[0], x[0]], [yMean, y[0]], color='orange', label='x-difference')
+plt.plot([xMean, x[0]], [y[0], y[0]], color='yellow', label='y-difference')
 [plt.plot([x[num], x[num]], [yMean, y[num]], color='orange') for num in range(len(x))]
+[plt.plot([xMean, x[num]], [y[num], y[num]], color='yellow') for num in range(len(x))]
+plt.plot(x, regression, color='red', label='regression')
 plt.title('Regression Line')
 plt.xlabel('Hours Studied')
 plt.ylabel('Grade')
