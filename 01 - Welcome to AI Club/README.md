@@ -47,7 +47,7 @@ Download the latest version of Python from [its website](https://www.python.org/
 
 Simply follow the setup instructions, and **DON'T FORGET TO CHECK "ADD TO PATH".**
 
-![](images/python_installer.jpg)
+![](images/python_installer.JPG)
 
 ## Git
 
