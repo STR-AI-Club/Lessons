@@ -8,12 +8,15 @@
   - [Git](#git)
   - [VS Code](#vs-code)
   - [Why Python?](#why-python)
+- [Template repository](#template-repository)
 - [Plans for this year](#plans-for-this-year)
 - [References](#references)
 
+***If you have any questions during the entirety of the year, feel free to ask.***
+
 # What is Artificial Intelligence?
 
-![](images/thinking.jpg)
+![thinking_robot](images/thinking.jpg)
 
 Like it or not, artificial intelligence surrounds our everyday lives. If you have ever used any of the following technologies, you have interacted with an AI to some extent.
 - Apple's Face ID or Windows Hello
@@ -51,7 +54,7 @@ Download the latest version of Python from [its website](https://www.python.org/
 
 Simply follow the setup instructions, and **DON'T FORGET TO CHECK "ADD TO PATH"**. This will allow you to access Python from anywhere.
 
-![](images/python_installer.JPG)
+![python_installer](images/python_installer.jpg)
 
 ## Git
 
@@ -69,13 +72,30 @@ VS Code (Visual Studio Code) is an Integrated Development Environment (IDE) brou
 
 Download VS Code from [its website](https://code.visualstudio.com/download).
 
-Create a new folder on your desktop (or anywhere else) to store all of the code we will be writing in AI Club.
+We will need to download a couple of extensions to allow python to run and to make life easier for us.
+
+First, click on the extensions tab on the left of the screen. It's the one that looks like 4 squares. You will need to search and download the following extensions:
+- Python (ms-python.python)
+- Code Runner (formulahendry.code-runner)
 
 ## Why Python?
 
 Most importantly, because it is considered the best language for machine learning thanks to a wide arsenal of available tools and libraries.
 
 Also, its fast(er than javascript) and rather intuitive. (also because we're too lazy to code in c++)
+
+
+# Template repository
+
+To make everything easier for all of us, we have created a template repository that you can clone (copy) to your system from the internet.
+
+First, visit [the template repository](https://github.com/STR-AI-Club/Template), and click the "fork" button on the <u>top right</u> of the screen.
+
+Next, click on green download code button, and copy the link that shows up.
+
+Open a folder in vs code in which you want to store all the code for AI Club, and open a terminal (ctrl + `). Type the following command:
+
+`$ git clone <your url here>`
 
 # Plans for this year
 
