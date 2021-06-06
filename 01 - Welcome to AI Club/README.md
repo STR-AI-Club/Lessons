@@ -16,7 +16,7 @@
 
 # What is Artificial Intelligence?
 
-![](images/thinking.jpg)
+![thinking_robot](images/thinking.jpg)
 
 Like it or not, artificial intelligence surrounds our everyday lives. If you have ever used any of the following technologies, you have interacted with an AI to some extent.
 - Apple's Face ID or Windows Hello
@@ -50,7 +50,7 @@ Download the latest version of Python from [its website](https://www.python.org/
 
 Simply follow the setup instructions, and **DON'T FORGET TO CHECK "ADD TO PATH".**
 
-![](images/python_installer.jpg)
+![python_installer](images/python_installer.jpg)
 
 ## Git
 
