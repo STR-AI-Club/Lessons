@@ -255,13 +255,10 @@ ages = {
     "Bryan": 1000
 }
 
-bob_age = ages["Bob"]
-ellen_age = ages["Ellen"]
-
-print(bob_age)
+print(ages["Bob"])
 >>> 78
 
-print(ellen_age)
+print(ages["Ellen"])
 >>> 57
 ```
 
