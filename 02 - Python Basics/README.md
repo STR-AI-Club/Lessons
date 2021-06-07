@@ -98,17 +98,17 @@ x = 12
 y = 38
 
 # addition
-a  = x + y
+a = x + y
 print(a)
 >>> 50
 
 # subtraction
-b  = x - y
+b = x - y
 print(b)
 >>> -26
 
 # multiplication
-c  = x * y
+c = x * y
 print(c)
 >>> 456
 
