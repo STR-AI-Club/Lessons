@@ -12,6 +12,8 @@
 - [Plans for this year](#plans-for-this-year)
 - [References](#references)
 
+(If you do not have a computer here you can always follow these instructions at home.)
+
 # What is Artificial Intelligence?
 
 ![thinking_robot](images/thinking.jpg)
@@ -80,7 +82,7 @@ Also, its fast(er than javascript) and rather intuitive. (also because we're too
 
 # Template Repository
 
-We have created a template repository with everything you need to code along with us this year.
+We have created a template repository with everything you need to code along with us this year. From personal experience, it is much easier to learn and understand things by doing it rather than just watching it.
 
 Steps for installation:
   1. Head on over to [this link](https://github.com/STR-AI-Club/Template)
