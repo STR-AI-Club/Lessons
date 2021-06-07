@@ -239,7 +239,7 @@ print(second_prime)
 Dictionaries can be used to store multiple values in key, item pairs. Think of them as lists except you can index them with specific values, called *keys*, to retrieve their corresponding values, called *items*.
 ```py
 ages = {
-    "Bob": 78,
+    "Bob":   78,
     "Ellen": 57,
     "Koral": 25,
     "Bryan": 1000
@@ -249,7 +249,7 @@ ages = {
 To index items in a dictionary, we can get them by their keys.
 ```py
 ages = {
-    "Bob": 78,
+    "Bob":   78,
     "Ellen": 57,
     "Koral": 25,
     "Bryan": 1000
