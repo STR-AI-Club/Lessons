@@ -1,23 +1,25 @@
 import numpy as np
 from activation import Activation
 
+
 class Tanh(Activation):
-	def __init__(self):
-		def tanh(x):
-			return np.tanh(x)
+    def __init__(self):
+        def tanh(x):
+            return np.tanh(x)
 
-		def tanhDeriv(x):
-			return 1 - np.tanh(x) ** 2
+        def tanhDeriv(x):
+            return 1 - np.tanh(x) ** 2
 
-		super().__init__(tanh, tanhDeriv)
+        super().__init__(tanh, tanhDeriv)
+
 
 class Sigmoid(Activation):
-	def __init__(self):
-		def sigmoid(x):
-			return 1 / (1 + np.exp(-x))
+    def __init__(self):
+        def sigmoid(x):
+            return 1 / (1 + np.exp(-x))
 
-		def sigmoidDeriv(x):
-			s = sigmoid(x)
-			return s * (1 - s)
+        def sigmoidDeriv(x):
+            s = sigmoid(x)
+            return s * (1 - s)
 
-		super().__init__(sigmoid, sigmoidDeriv)
+        super().__init__(sigmoid, sigmoidDeriv)

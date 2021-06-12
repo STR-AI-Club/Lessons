@@ -1,6 +1,7 @@
 import numpy as np
 
-class Dense():
+
+class Dense:
     def __init__(self, inputSize, outputSize):
         self.weights = np.random.randn(outputSize, inputSize)
         self.bias = np.random.randn(outputSize, 1)
