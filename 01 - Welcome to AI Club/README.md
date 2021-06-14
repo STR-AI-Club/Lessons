@@ -10,6 +10,7 @@
   - [Why Python?](#why-python)
 - [Template Repository](#template-repository)
 - [Plans for this year](#plans-for-this-year)
+- [Extras](#extras)
 - [References](#references)
 
 (If you do not have a computer here you can always follow these instructions at home.)
@@ -105,6 +106,20 @@ We believe that making something from scratch is the best way to grasp a concept
 Once you learn these simple machine learning models, we will move on to create more advanced models such as convolutional and LSTM neural networks.
 
 We hope that all of you will enjoy learning about machine learning as much as we enjoy teaching it! We look forward to an excitement-filled school year with STR AI Club!
+
+# Extras
+
+We want to ~~relate to the youth~~ help you understand AI better so we have compiled some images. Honestly they sum up the essence of AI and ML better than we can:
+
+![](images/meme1.jpg)
+
+![](images/meme2.jpg)
+
+![](images/meme3.png)
+
+![](images/meme4.png)
+
+![](images/meme5.png)
 
 # References
 
