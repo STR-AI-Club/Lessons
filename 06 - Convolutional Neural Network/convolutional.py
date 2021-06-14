@@ -16,9 +16,10 @@ class Convolutional:
         self.kernelsShape = (depth, inputDepth, kernelSize, kernelSize)
         self.kernels = np.random.randn(*self.kernelsShape)
         self.biases = np.random.randn(*self.outputShape)
+        self.input, self.output = None, None
 
-    def forward(self, input):
-        self.input = input
+    def forward(self, inputs):
+        self.input = inputs
         self.output = np.copy(self.biases)
         for i in range(self.depth):
             for j in range(self.inputDepth):

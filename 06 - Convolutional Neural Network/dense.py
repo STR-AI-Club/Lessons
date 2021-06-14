@@ -5,9 +5,10 @@ class Dense:
     def __init__(self, inputSize, outputSize):
         self.weights = np.random.randn(outputSize, inputSize)
         self.bias = np.random.randn(outputSize, 1)
+        self.input = None
 
-    def forward(self, input):
-        self.input = input
+    def forward(self, inputs):
+        self.input = inputs
         return np.dot(self.weights, self.input) + self.bias
 
     def backward(self, outputGradient, rate):

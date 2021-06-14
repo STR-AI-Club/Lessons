@@ -6,8 +6,8 @@ class Dense:
         self.weights = np.random.randn(outputSize, inputSize)
         self.bias = np.random.randn(outputSize, 1)
 
-    def forward(self, inp):
-        self.input = inp
+    def forward(self, inputs):
+        self.input = inputs
         return self.weights @ self.input + self.bias
 
     def backward(self, outputGradient, rate):

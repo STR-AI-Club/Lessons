@@ -5,9 +5,10 @@ class Activation:
     def __init__(self, activation, activationDeriv):
         self.activation = activation
         self.activationDeriv = activationDeriv
+        self.input = None
 
-    def forward(self, input):
-        self.input = input
+    def forward(self, inputs):
+        self.input = inputs
         return self.activation(self.input)
 
     def backward(self, outputGradient, rate):
